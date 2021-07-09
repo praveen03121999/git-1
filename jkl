@@ -1,0 +1,58 @@
+Last login: Sat Jul  3 21:06:51 on ttys002
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+RINMAC315:~ ar-praveen.b.patil$ ls
+COCI		Documents	Library		Movies		Pictures
+Desktop		Downloads	MSMC		Music		Public
+RINMAC315:~ ar-praveen.b.patil$ cd Documents/
+RINMAC315:Documents ar-praveen.b.patil$ ls
+Microsoft Word - Weekly report.docx copy.pdf
+Project Status Report copy.pdf
+Solaris to Linux_Porting Requirements_20190110.xlsx
+ViberDownloads
+git-learning
+RINMAC315:Documents ar-praveen.b.patil$ cd git-learning/
+RINMAC315:git-learning ar-praveen.b.patil$ ls
+README.md	mnop.rtf	second.rtf
+abcd.rtf	pqrs.rtf	xyz.rtf
+RINMAC315:git-learning ar-praveen.b.patil$ git status
+On branch master
+nothing to commit, working tree clean
+RINMAC315:git-learning ar-praveen.b.patil$ ggit branch
+-bash: ggit: command not found
+RINMAC315:git-learning ar-praveen.b.patil$ git branch
+  firstbranch
+  main
+* master
+  secondbranch
+RINMAC315:git-learning ar-praveen.b.patil$ ls
+README.md	mnop.rtf	second.rtf
+abcd.rtf	pqrs.rtf	xyz.rtf
+RINMAC315:git-learning ar-praveen.b.patil$ nano jkl.rtf
+
+  GNU nano 2.0.6               File: jkl.rtf                          Modified  
+
+f,ekelemekfvnefbvo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  [ New File ]
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
